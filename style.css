@@ -1,0 +1,42 @@
+body {
+    padding: 10px 0 0 0;
+}
+.content {
+    padding: 30px;
+}   
+        
+h1 {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+        
+p {
+    margin-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+#parts-category {
+    width: fit-content;
+    border: 1px solid #253a44;
+}
+    a {
+        display: block;
+        text-decoration: none;
+        padding: 6px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 20px;
+        color: #183138;
+    }
+    a:hover {
+        background-color: #325268;
+        color: #ffffff;
+    }
+
+    #auto-himia #autohimia {
+        border: 1px solid #66181e;
+    }
+
+    #auto-himia #autohimia a {
+        color: #6d8600;
+    }
